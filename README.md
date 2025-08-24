@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+nab-cat!+👋;Fullstack+Explorer+%7C+Always+Learning;Student+Developer+Building+Cool+Things&background=06B6D4,16B0ED,06B6D4&animation=twinkling" alt="nab-cat glowing banner"/>
 </p>
 
-<!-- Tech Stack (Graphical) -->
+<!-- Tech Stack (Frontend) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,vue,react,next,nodejs,vite,flutter,dart,tailwind" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,vue,react,next,nodejs,vite,flutter,dart,tailwind" alt="Frontend Tech Stack" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff" alt="Blade"/>
@@ -15,6 +15,30 @@
   <img src="https://img.shields.io/badge/Mapbox-4264FB?style=for-the-badge&logo=mapbox&logoColor=fff" alt="Mapbox"/>
   <img src="https://img.shields.io/badge/Clerk-3E3EEC?style=for-the-badge" alt="Clerk"/>
   <img src="https://img.shields.io/badge/shadcn-000?style=for-the-badge" alt="shadcn"/>
+</p>
+
+<!-- Backend -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,golang,php,mysql,postgres" alt="Backend Stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=fff" alt="Golang"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff" alt="Eloquent ORM"/>
+  <img src="https://img.shields.io/badge/Gorm-00ADD8?style=for-the-badge&logo=go&logoColor=fff" alt="Gorm ORM"/>
+</p>
+
+<!-- DevOps / Cloud -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,azure,oracle" alt="DevOps Stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=fff" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=fff" alt="Oracle Cloud"/>
 </p>
 
 ---
