@@ -1,16 +1,48 @@
-## Hi there 👋
+<!-- Graphical Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:16B0ED,100:06B6D4&height=220&section=header&text=Hi%2C%20I%27m%20nab-cat!%20👋%20&fontSize=45&fontAlign=50&fontColor=ffffff&desc=Student%20Developer%20%7C%20Fullstack%20Explorer%20%7C%20Always%20Learning&descAlign=50&descSize=22&descColor=ffffff" alt="header"/>
+</p>
 
-<!--
-**nab-cat/nab-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Tech Stack Badges (graphical) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,vue,react,next,nodejs,vite,flutter,dart,tailwind" alt="Tech Stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff" alt="Blade"/>
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=fff" alt="Livewire"/>
+  <img src="https://img.shields.io/badge/Filament-4469B0?style=for-the-badge" alt="Filament"/>
+  <img src="https://img.shields.io/badge/Inertia.js-8000FF?style=for-the-badge" alt="Inertia.js"/>
+  <img src="https://img.shields.io/badge/Mapbox-4264FB?style=for-the-badge&logo=mapbox&logoColor=fff" alt="Mapbox"/>
+  <img src="https://img.shields.io/badge/Clerk-3E3EEC?style=for-the-badge" alt="Clerk"/>
+  <img src="https://img.shields.io/badge/shadcn-000?style=for-the-badge" alt="shadcn"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Highlighted Repositories & Stats -->
+## 📂 My Projects
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nab-cat&theme=github_dark" alt="Profile Details" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nab-cat&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nab-cat&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:alf.muhammad.ilyas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email"/>
+  </a>
+  <a href="https://wa.me/6285868548240">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff" alt="WhatsApp"/>
+  </a>
+</p>
+
+<!-- Footer / Extra -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:06B6D4,100:16B0ED&height=120&section=footer"/>
+</p>
