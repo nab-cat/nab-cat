@@ -1,7 +1,8 @@
-<!-- Banner -->
+<!-- Banner with custom font -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+nab-cat!+👋;Fullstack+Explorer+%7C+Always+Learning;Student+Developer+Building+Cool+Things" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+nab-cat!+👋;Fullstack+Explorer+%7C+Always+Learning;Student+Developer+Building+Cool+Things" alt="nab-cat banner"/>
 </p>
+
 
 <!-- Tech Stack (Graphical) -->
 <p align="center">
