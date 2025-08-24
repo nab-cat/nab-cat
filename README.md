@@ -1,7 +1,9 @@
 <!-- Banner -->
+<!-- Modern Capsule Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+nab-cat!+👋;Fullstack+Explorer+%7C+Always+Learning;Student+Developer+Building+Cool+Things" alt="Typing Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:06B6D4,100:16B0ED&height=220&section=header&text=Hi%2C%20I'm%20nab-cat!%20👋&fontSize=45&fontAlign=50&fontColor=ffffff&font=Raleway&animation=twinkling&desc=Student%20Developer%20%7C%20Fullstack%20Explorer%20%7C%20Always%20Learning&descAlign=50&descSize=22&descColor=ffffff" alt="nab-cat banner"/>
 </p>
+
 
 <!-- Tech Stack (Graphical) -->
 <p align="center">
