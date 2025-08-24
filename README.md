@@ -1,9 +1,9 @@
-<!-- Graphical Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:16B0ED,100:06B6D4&height=220&section=header&text=Hi%2C%20I%27m%20nab-cat!%20👋%20&fontSize=45&fontAlign=50&fontColor=ffffff&desc=Student%20Developer%20%7C%20Fullstack%20Explorer%20%7C%20Always%20Learning&descAlign=50&descSize=22&descColor=ffffff" alt="header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+nab-cat!+👋;Fullstack+Explorer+%7C+Always+Learning;Student+Developer+Building+Cool+Things" alt="Typing Banner" />
 </p>
 
-<!-- Tech Stack Badges (graphical) -->
+<!-- Tech Stack (Graphical) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,vue,react,next,nodejs,vite,flutter,dart,tailwind" alt="Tech Stack" />
 </p>
@@ -19,20 +19,17 @@
 
 ---
 
-<!-- Highlighted Repositories & Stats -->
-## 📂 My Projects
-
+## 📂 Featured Projects
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nab-cat&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nab-cat&theme=tokyonight" alt="Profile Details" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nab-cat&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nab-cat&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nab-cat&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nab-cat&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 📬 Contact Me
-
 <p align="center">
   <a href="mailto:alf.muhammad.ilyas@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email"/>
@@ -40,9 +37,4 @@
   <a href="https://wa.me/6285868548240">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff" alt="WhatsApp"/>
   </a>
-</p>
-
-<!-- Footer / Extra -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:06B6D4,100:16B0ED&height=120&section=footer"/>
 </p>
