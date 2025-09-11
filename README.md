@@ -5,7 +5,7 @@
 
 <!-- Tech Stack (Frontend) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,vue,react,next,nodejs,vite,flutter,dart,tailwind" alt="Frontend Tech Stack" />
+  ![Full Stack Skills](https://skillicons.dev/icons?i=dotnet,csharp,python,go,php,html,css,js,ts,vue,react,nodejs,tailwind)
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff" alt="Blade"/>
