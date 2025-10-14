@@ -3,42 +3,92 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+nab-cat!+👋;Fullstack+Explorer+%7C+Always+Learning;Student+Developer+Building+Cool+Things&background=06B6D4,16B0ED,06B6D4&animation=twinkling" alt="nab-cat glowing banner"/>
 </p>
 
-<!-- Tech Stack (Frontend) -->
+---
+
+## 🧠 Languages / Markup / Styles
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cs,laravel,vue,react,next,nodejs,vite,flutter,dart,tailwind" alt="Frontend Tech Stack" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff" alt="Blade"/>
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=fff" alt="Livewire"/>
-  <img src="https://img.shields.io/badge/Filament-4469B0?style=for-the-badge" alt="Filament"/>
-  <img src="https://img.shields.io/badge/Inertia.js-8000FF?style=for-the-badge" alt="Inertia.js"/>
-  <img src="https://img.shields.io/badge/Mapbox-4264FB?style=for-the-badge&logo=mapbox&logoColor=fff" alt="Mapbox"/>
-  <img src="https://img.shields.io/badge/Clerk-3E3EEC?style=for-the-badge" alt="Clerk"/>
-  <img src="https://img.shields.io/badge/shadcn-000?style=for-the-badge" alt="shadcn"/>
+  <img height="40" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5"/>
+  <img height="40" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3"/>
+  <img height="40" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript"/>
+  <img height="40" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript"/>
+  <img height="40" src="https://cdn.simpleicons.org/php/777BB4" alt="PHP"/>
+  <img height="40" src="https://cdn.simpleicons.org/python/3776AB" alt="Python"/>
+  <img height="40" src="https://cdn.simpleicons.org/go/00ADD8" alt="Golang"/>
+  <img height="40" src="https://cdn.simpleicons.org/c/239120" alt="C#"/>
+  <img height="40" src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart"/>
 </p>
 
-<!-- Backend -->
+---
+
+## ⚙️ Frameworks & Libraries
+
+### 🖥 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,golang,php,mysql,postgres" alt="Backend Stack" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python"/>
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=fff" alt="Golang"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff" alt="Eloquent ORM"/>
-  <img src="https://img.shields.io/badge/Gorm-00ADD8?style=for-the-badge&logo=go&logoColor=fff" alt="Gorm ORM"/>
+  <img height="40" src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel"/>
+  <img height="40" src="https://cdn.simpleicons.org/codeigniter/EF4223" alt="CodeIgniter"/>
+  <img height="40" src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js"/>
+  <img height="40" src="https://cdn.simpleicons.org/express/000000" alt="Express.js"/>
+  <img height="40" src="https://cdn.simpleicons.org/livewire/4E56A6" alt="Livewire"/>
+  <img height="40" src="https://cdn.simpleicons.org/filament/4469B0" alt="Filament"/>
+  <img height="40" src="https://cdn.simpleicons.org/go/00ADD8" alt="GORM ORM"/>
 </p>
 
-<!-- DevOps / Cloud -->
+### 💅 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,azure,net" alt="DevOps Stack" />
+  <img height="40" src="https://cdn.simpleicons.org/vue.js/4FC08D" alt="Vue.js"/>
+  <img height="40" src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js"/>
+  <img height="40" src="https://cdn.simpleicons.org/next.js/000000" alt="Next.js"/>
+  <img height="40" src="https://cdn.simpleicons.org/nuxt/00DC82" alt="Nuxt.js"/>
+  <img height="40" src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite"/>
+  <img height="40" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS"/>
+  <img height="40" src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter"/>
+  <img height="40" src="https://cdn.simpleicons.org/inertia/8000FF" alt="Inertia.js"/>
+  <img height="40" src="https://cdn.simpleicons.org/alpinedotjs/77C1D2" alt="Alpine.js"/>
+  <img height="40" src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcn/ui"/>
+  <img height="40" src="https://cdn.simpleicons.org/clerk/3E3EEC" alt="Clerk"/>
 </p>
+
+---
+
+## 🗺 Geospatial & GIS
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=fff" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=fff" alt="Oracle Cloud"/>
+  <img height="40" src="https://cdn.simpleicons.org/maplibre/1B6CE1" alt="MapLibre"/>
+  <img height="40" src="https://cdn.simpleicons.org/maptiler/0085CA" alt="MapTiler"/>
+  <img height="40" src="https://cdn.simpleicons.org/mapbox/4264FB" alt="Mapbox"/>
+  <img height="40" src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" alt="OpenStreetMap"/>
+  <img height="40" src="https://cdn.simpleicons.org/gdal/78A942" alt="GDAL"/>
+  <img height="40" src="https://cdn.simpleicons.org/arcgis/336791" alt="PostGIS"/>
+  <!--<img height="40" src="https://cdn.simpleicons.org/qgis/1E90FF" alt="Turf.js"/>-->
+</p>
+
+---
+
+## 🗄 Databases
+<p align="center">
+  <img height="40" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL"/>
+  <img height="40" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL"/>
+  <img height="40" src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" alt="PHPMyAdmin"/>
+  <img height="40" src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite"/>
+</p>
+
+---
+
+## ☁️ DevOps / Cloud / Server
+<p align="center">
+  <img height="40" src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx"/>
+  <img height="40" src="https://cdn.simpleicons.org/apache/D22128" alt="Apache"/>
+  <img height="40" src="https://cdn.simpleicons.org/github/181717" alt="GitHub"/>
+  <img height="40" src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET"/>
+  <img height="40" src="https://cdn.simpleicons.org/microsoftiis/0078D7" alt="IIS"/>
+</p>
+
+---
+
+## 🧩 Build & Package Tools
+<p align="center">
+  <img height="40" src="https://cdn.simpleicons.org/composer/885630" alt="Composer"/>
+  <img height="40" src="https://cdn.simpleicons.org/npm/CB3837" alt="npm"/>
+  <img height="40" src="https://cdn.simpleicons.org/pnpm/F69220" alt="pnpm"/>
 </p>
 
 ---
@@ -56,9 +106,9 @@
 ## 📬 Contact Me
 <p align="center">
   <a href="mailto:alf.muhammad.ilyas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email"/>
+    <img height="40" src="https://cdn.simpleicons.org/gmail/D14836" alt="Email"/>
   </a>
   <a href="https://wa.me/6285868548240">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff" alt="WhatsApp"/>
+    <img height="40" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp"/>
   </a>
 </p>
