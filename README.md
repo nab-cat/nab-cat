@@ -27,7 +27,7 @@
   <img height="40" src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel"/>
   <img height="40" src="https://cdn.simpleicons.org/codeigniter/EF4223" alt="CodeIgniter"/>
   <img height="40" src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js"/>
-  <img height="40" src="https://cdn.simpleicons.org/express/000000" alt="Express.js"/>
+  <img height="40" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js"/>
   <img height="40" src="https://cdn.simpleicons.org/livewire/4E56A6" alt="Livewire"/>
   <img height="40" src="https://cdn.simpleicons.org/filament/4469B0" alt="Filament"/>
   <img height="40" src="https://cdn.simpleicons.org/go/00ADD8" alt="GORM ORM"/>
@@ -37,7 +37,7 @@
 <p align="center">
   <img height="40" src="https://cdn.simpleicons.org/vue.js/4FC08D" alt="Vue.js"/>
   <img height="40" src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js"/>
-  <img height="40" src="https://cdn.simpleicons.org/next.js/000000" alt="Next.js"/>
+  <img height="40" src="https://cdn.simpleicons.org/next.js/FFFFFF" alt="Next.js"/>
   <img height="40" src="https://cdn.simpleicons.org/nuxt/00DC82" alt="Nuxt.js"/>
   <img height="40" src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite"/>
   <img height="40" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS"/>
