@@ -77,10 +77,13 @@
 <p align="center">
   <img height="40" src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx"/>
   <img height="40" src="https://cdn.simpleicons.org/apache/D22128" alt="Apache"/>
-  <img height="40" src="https://cdn.simpleicons.org/github/181717" alt="GitHub"/>
+  <img height="40" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub"/>
+  <img height="40" src="https://cdn.simpleicons.org/gitlab/FCA121" alt="GitLab"/>
+  <img height="40" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker"/>
   <img height="40" src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET"/>
   <img height="40" src="https://cdn.simpleicons.org/microsoftiis/0078D7" alt="IIS"/>
 </p>
+
 
 ---
 
