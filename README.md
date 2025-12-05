@@ -64,12 +64,7 @@
 ---
 
 ## 🗄 Databases
-<p align="center">
-  <img height="40" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL"/>
-  <img height="40" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL"/>
-  <img height="40" src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" alt="PHPMyAdmin"/>
-  <img height="40" src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite"/>
-</p>
+<p align="center"> <img height="40" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL"/> <img height="40" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL"/> <img height="40" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB"/> <img height="40" src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase"/> <img height="40" src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" alt="PHPMyAdmin"/> <img height="40" src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite"/> </p>
 
 ---
 
