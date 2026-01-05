@@ -77,6 +77,9 @@
   <img height="40" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker"/>
   <img height="40" src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET"/>
   <img height="40" src="https://cdn.simpleicons.org/microsoftiis/0078D7" alt="IIS"/>
+  <img height="40" src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus"/>
+  <img height="40" src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana"/>
+  <img height="40" src="https://cdn.simpleicons.org/redhat/EE0000" alt="Redhat"/>
 </p>
 
 
