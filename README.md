@@ -46,6 +46,7 @@
   <img height="40" src="https://cdn.simpleicons.org/alpinedotjs/77C1D2" alt="Alpine.js"/>
   <img height="40" src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcn/ui"/>
   <img height="40" src="https://cdn.simpleicons.org/clerk/3E3EEC" alt="Clerk"/>
+  <img height="40" src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP"/>
 </p>
 
 ---
