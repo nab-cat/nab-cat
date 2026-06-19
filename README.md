@@ -82,6 +82,8 @@
   <img height="40" src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana"/>
   <img height="40" src="https://cdn.simpleicons.org/redhat/EE0000" alt="Redhat"/>
   <img height="40" src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu"/>
+  <img height="40" src="https://cdn.simpleicons.org/infinityfree/7738C8" alt="InfinityFree"/>
+  <img height="40" src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare"/>
 </p>
 
 
