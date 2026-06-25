@@ -31,6 +31,7 @@
   <img height="40" src="https://cdn.simpleicons.org/livewire/4E56A6" alt="Livewire"/>
   <img height="40" src="https://cdn.simpleicons.org/filament/4469B0" alt="Filament"/>
   <img height="40" src="https://cdn.simpleicons.org/go/00ADD8" alt="GORM ORM"/>
+  <img height="40" src="https://cdn.simpleicons.org/hono/E36002" alt="Hono.js"/>
 </p>
 
 ### 💅 Frontend
@@ -75,9 +76,10 @@
   <img height="40" src="https://cdn.simpleicons.org/apache/D22128" alt="Apache"/>
   <img height="40" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub"/>
   <img height="40" src="https://cdn.simpleicons.org/gitlab/FCA121" alt="GitLab"/>
+  <img height="40" src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub"/>
   <img height="40" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker"/>
   <img height="40" src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET"/>
-  <img height="40" src="https://cdn.simpleicons.org/microsoftiis/0078D7" alt="IIS"/>
+  <!-- <img height="40" src="https://cdn.simpleicons.org/microsoftiis/0078D7" alt="IIS"/> -->
   <img height="40" src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus"/>
   <img height="40" src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana"/>
   <img height="40" src="https://cdn.simpleicons.org/redhat/EE0000" alt="Redhat"/>
