@@ -32,6 +32,9 @@
   <img height="40" src="https://cdn.simpleicons.org/filament/4469B0" alt="Filament"/>
   <img height="40" src="https://cdn.simpleicons.org/go/00ADD8" alt="GORM ORM"/>
   <img height="40" src="https://cdn.simpleicons.org/hono/E36002" alt="Hono.js"/>
+  <img height="40" src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma"/>
+  <img height="40" src="https://cdn.simpleicons.org/sqlalchemy/D71F00" alt="SQLAlchemy"/>
+  <img height="40" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI"/>
 </p>
 
 ### 💅 Frontend
