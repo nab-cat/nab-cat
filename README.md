@@ -83,6 +83,7 @@
   <img height="40" src="https://cdn.simpleicons.org/gitlab/FCA121" alt="GitLab"/>
   <img height="40" src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub"/>
   <img height="40" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker"/>
+  <img height="40" src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes"/>
   <img height="40" src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET"/>
   <!-- <img height="40" src="https://cdn.simpleicons.org/microsoftiis/0078D7" alt="IIS"/> -->
   <img height="40" src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus"/>
