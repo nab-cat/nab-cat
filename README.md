@@ -35,6 +35,7 @@
   <img height="40" src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma"/>
   <img height="40" src="https://cdn.simpleicons.org/sqlalchemy/D71F00" alt="SQLAlchemy"/>
   <img height="40" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI"/>
+  <img height="40" src="https://cdn.simpleicons.org/rust/ffffff" alt="Rust"/>
 </p>
 
 ### 💅 Frontend
@@ -51,6 +52,7 @@
   <img height="40" src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcn/ui"/>
   <img height="40" src="https://cdn.simpleicons.org/clerk/3E3EEC" alt="Clerk"/>
   <img height="40" src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP"/>
+  <img height="40" src="https://cdn.simpleicons.org/tauri/24C8D8" alt="Tauri"/>
 </p>
 
 ---
