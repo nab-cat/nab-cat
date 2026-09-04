@@ -16,6 +16,7 @@
   <img height="40" src="https://cdn.simpleicons.org/go/00ADD8" alt="Golang"/>
   <img height="40" src="https://cdn.simpleicons.org/c/239120" alt="C#"/>
   <img height="40" src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart"/>
+  <img height="40" src="https://cdn.simpleicons.org/rust/ffffff" alt="Rust"/>
 </p>
 
 ---
@@ -35,7 +36,6 @@
   <img height="40" src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma"/>
   <img height="40" src="https://cdn.simpleicons.org/sqlalchemy/D71F00" alt="SQLAlchemy"/>
   <img height="40" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI"/>
-  <img height="40" src="https://cdn.simpleicons.org/rust/ffffff" alt="Rust"/>
 </p>
 
 ### 💅 Frontend
@@ -53,6 +53,7 @@
   <img height="40" src="https://cdn.simpleicons.org/clerk/3E3EEC" alt="Clerk"/>
   <img height="40" src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP"/>
   <img height="40" src="https://cdn.simpleicons.org/tauri/24C8D8" alt="Tauri"/>
+  <img height="40" src="https://cdn.simpleicons.org/capacitor/119EFF" alt="Capacitor"/>
 </p>
 
 ---
@@ -65,6 +66,7 @@
   <img height="40" src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" alt="OpenStreetMap"/>
   <img height="40" src="https://cdn.simpleicons.org/gdal/78A942" alt="GDAL"/>
   <img height="40" src="https://cdn.simpleicons.org/arcgis/336791" alt="PostGIS"/>
+  <img height="40" src="https://cdn.simpleicons.org/rust/199900" alt="Leaflet"/>
   <!--<img height="40" src="https://cdn.simpleicons.org/qgis/1E90FF" alt="Turf.js"/>-->
 </p>
 
