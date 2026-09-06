@@ -36,6 +36,7 @@
   <img height="40" src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma"/>
   <img height="40" src="https://cdn.simpleicons.org/sqlalchemy/D71F00" alt="SQLAlchemy"/>
   <img height="40" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI"/>
+  <img height="40" src="https://cdn.simpleicons.org/pydantic/E92063" alt="Pydantic"/>
 </p>
 
 ### 💅 Frontend
@@ -66,7 +67,8 @@
   <img height="40" src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" alt="OpenStreetMap"/>
   <img height="40" src="https://cdn.simpleicons.org/gdal/78A942" alt="GDAL"/>
   <img height="40" src="https://cdn.simpleicons.org/arcgis/336791" alt="PostGIS"/>
-  <img height="40" src="https://cdn.simpleicons.org/rust/199900" alt="Leaflet"/>
+  <img height="40" src="https://cdn.simpleicons.org/leaflet/199900" alt="Leaflet"/>
+  <img height="40" src="https://cdn.simpleicons.org/geopandas/139C5A" alt="geopandas"/>
   <!--<img height="40" src="https://cdn.simpleicons.org/qgis/1E90FF" alt="Turf.js"/>-->
 </p>
 
